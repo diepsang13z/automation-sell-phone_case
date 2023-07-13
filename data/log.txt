@@ -1,0 +1,10 @@
+{'IP 6S': {'D-A13': '1'}, 
+'IP 5SE': {'D-A09': '1'}, 
+'Nokia C30': {'A55': '1'}, 
+'IP 8 PLUS': {'D-A01': '11', 'D-A06': '1'}, 
+'ViVo V9': {'A21': '1'}, 
+'Redmi Note 11': {'D-A04': '1', 'KÍNH CƯỜNG LỰC': '2'}, 
+'IP 6S PLUS': {'D-A04': '1'}, 'VIVO Y01s': {'DA41': '1'}, 
+'OPPO A5S / A7 / A12': {'DA31': '1'}, 
+'IP XSMAX': {'D-A03': '1', 'D-A07': '1'}, 
+'IP 7 PLUS': {'D-A01': '1', 'D-A06': '1'}, 'Samsung NOTE 20': {'DA40': '1', 'DA33': '1', 'DA38': '1'}, 'REALME C3': {'D-A10': '1'}, 'Samsung J2 PRO': {'A49': '1'}, 'IP 5S': {'D-A04': '1'}, 'MI A2 LITE': {'Hình ngẫu nhiên': '1'}, 'Samsung J7 PRO': {'DA33': '1'}, 'RENO 7': {'D-A10': '1'}, 'Samsung J7 Prime': {'DA36': '1'}, 'OPPO A52': {'D-A06': '1'}, 'VIVO Y30': {'D-A08': '1'}, 'RedMi 4/ 4X': {'A52': '1', 'A53': '1'}, 'Mi 8 SE': {'D-A04': '1'}, 'SS NOTE 7': {'D-A03': '1'}, 'OPPO A57 4G': {'D-A03': '1', 'DA42': '1'}, 'REDMI 10': {'KÍNH CƯỜNG LỰC': '4', 'D-A07': '2', 'DA34': '1', 'D-A03': '1'}, 'Samsung A22 4G': {'DA42': '1'}, 'SS J3 PRO': {'D-A08': '1'}, 'RedMi 8A': {'A20': '1'}, 'F3 PLUS/R9s PLUS': {'DA41': '1'}, 'IP 7': {'D-A04': '1'}, 'VSMART STAR 5': {'DA45': '1'}, 'TECNO SPARK 6 GO': {'A53': '1'}, 'REDMI 9C': {'A24': '1'}, 'SS Note 8': {'D-A02': '1', 'D-A07': '1'}, 'Vivo V21 5G': {'A21': '1', 'A20': '1'}, 'SS S22 Ultra': {'D-A06': '1'}, 'RENO 8 / 8 4G': {'D-A08': '1'}, 'SS A11 / M11': {'D-A06': '1'}, 'Nokia C10 / C20': {'A50': '1'}, 'OPPO A92': {'D-A08': '1'}, 'Samsung S8': {'D-A14': '1', 'A21': '1'}, 'SS J4 PLUS/J4 CORE': {'DA35': '1'}, 'VIVO Y22 / 22S': {'D-A05': '1'}, 'SS A04S': {'D-A07': '1'}, 'Samsung A10S': {'D-A11': '1'}, 'Samsung A80': {'DA35': '1'}}
